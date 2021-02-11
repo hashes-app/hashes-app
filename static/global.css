@@ -17,3 +17,11 @@
     --h5: var(--fonts-2);
     --h6: var(--fonts-1);
 }
+
+@media screen and (max-width: 48rem) {
+    :root {
+      --h1: var(--fonts-8);
+      --h2: var(--fonts-7);
+      --h3: var(--fonts-6);
+    }
+}

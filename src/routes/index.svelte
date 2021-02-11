@@ -19,7 +19,7 @@
 </style>
 
 <section id="callout">
-  <h1 mx="10 sm5" my="9">Publish audio convos. With ease.</h1>
+  <h1 mx="10 sm0" my="9">Publish audio convos. With ease.</h1>
   <h2 mx="10 sm5" my="9">Structured conversations. Better broadcasts.</h2>
 </section>
 

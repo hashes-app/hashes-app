@@ -19,8 +19,8 @@
 </style>
 
 <section id="callout">
-  <h1 mx="10" my="9">Publish audio convos. With ease.</h1>
-  <h2 mx="10" my="9"> Structured conversations. Better broadcasts.</h2>
+  <h1 mx="10 sm0" my="9">Publish audio convos. With ease.</h1>
+  <h2 mx="10 sm5" my="9">Structured conversations. Better broadcasts.</h2>
 </section>
 
 <ul grid columns="2" gap="6" my="9">
@@ -38,7 +38,7 @@
   </li>
   <li cell>
     <h3>Blazing Fast</h3>
-    <p>Our 100% native iOS application and audio compression means no lag, ever.</p>
+    <p>Our 100% native iOS application and audio compression means less latency.</p>
   </li>
   <li cell>
     <h3>Publish Extensions</h3>
@@ -68,7 +68,7 @@
 
 <section my="9" id="callout">
   <img src="logo.svg" alt="logo">
-  <h2>We're more than a chat room.</h2>
+  <h2>More than just a chat room.</h2>
   <button>Get on the waitlist</button>
 </section>
 <!-- <PostList {posts}/> -->

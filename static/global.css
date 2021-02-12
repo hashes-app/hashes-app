@@ -18,7 +18,6 @@
     --h5: var(--fonts-2);
     --h6: var(--fonts-1);
     --component-border-radius: 0;
-    /* --body-font-size: var(--fonts-4); */
 }
 
 @media screen and (max-width: 48rem) {

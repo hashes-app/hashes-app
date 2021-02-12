@@ -29,7 +29,7 @@
 
 <section id="form" px="10 sm0" mx="10 sm0">
   <h3>Signup for our iOS Testflight.</h3>
-  <form name="contact" netlify-honeypot="bot-field" method="POST" netlify flex>
+  <form name="contact" netlify-honeypot="bot-field" action="/" method="POST" netlify flex>
     <input id="tel" name="phone" type="tel" placeholder="Your phone number" required>
     <button type="submit" value="Submit" id="Form-submit">Submit</button>
   </form>

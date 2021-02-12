@@ -1,7 +1,4 @@
 <script>
-  import PostList from '@/components/PostList.svelte'
-
-  import {posts} from '@/posts'
 </script>
 
 <svelte:head>
@@ -15,10 +12,6 @@
 
   img {
     height: 200px;
-  }
-  input#tel {
-    line-height: 16px !important;
-    height: 52px;
   }
 </style>
 

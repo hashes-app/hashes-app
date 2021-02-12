@@ -83,6 +83,6 @@
 <section my="9" id="callout">
   <img src="logo.svg" alt="logo">
   <h2>More than just a chat room.</h2>
-  <button>Get on the waitlist</button>
+  <h3><a href="#form">Get on our waitlist!</a>
 </section>
 <!-- <PostList {posts}/> -->

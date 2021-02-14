@@ -6,7 +6,7 @@
 
 <style>
   main {
-    max-width: 56em;
+    max-width: 60em;
   }
 </style>
 
@@ -16,4 +16,4 @@
   <slot></slot>
 </main>
 
-<Footer />
+<!-- <Footer /> -->

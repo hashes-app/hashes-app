@@ -14,7 +14,7 @@
   }
 
   img {
-    height: 200px;
+    height: 160px;
   }
   input#tel {
     line-height: 16px !important;

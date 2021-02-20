@@ -26,6 +26,7 @@
 
 i, .i, [i] {
   font-family: var(--font-serif);
+  font-style: italic;
 }
 
 @media screen and (max-width: 48rem) {

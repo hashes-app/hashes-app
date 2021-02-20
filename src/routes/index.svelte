@@ -10,7 +10,7 @@
 
 <style>
   #callout, #form{
-    text-align: center;
+    /* text-align: center; */
   }
 
   img {
@@ -23,10 +23,10 @@
 </style>
 
 <section id="callout">
-  <h1 mx="9 sm0" my="9">Publish audio conversations. With ease.</h1>
+  <h1 my="9">Publish audio conversations, <span i>mindfully.</span></h1>
 </section>
 
-<section id="form" px="10 sm0" mx="10 sm0">
+<section id="form" pr="12 sm0">
   <h3>Signup for our iOS Testflight.</h3>
   <form name="contact" netlify-honeypot="bot-field" action="/waitlist/" method="POST" data-netlify="true" flex>
     <input type="hidden" name="form-name" value="contact" />
@@ -35,8 +35,12 @@
   </form>
 </section>
 
-<section my="9" id="callout">
+<section my="9">
   <img src="logo.svg" alt="logo">
-  <h2>More than a chat room.</h2>
+</section>
+
+<section my="9" id="callout">
+  <h1><span i>“A conversation requires a balance between talking and listening,</span> and somewhere along the way, <span i>we lost that balance.”</span></h1>
+  <h3><a href="https://www.ted.com/talks/celeste_headlee_10_ways_to_have_a_better_conversation/">Celeste Headlee</a></h3>
 </section>
 <!-- <PostList {posts}/> -->

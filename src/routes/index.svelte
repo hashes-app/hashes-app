@@ -23,7 +23,8 @@
 </style>
 
 <section id="callout">
-  <h1 my="9">Publish audio conversations, <span i>mindfully.</span></h1>
+  <h1>Hashes<span i>.app</span></h1>
+  <h2 my="9">Publish audio stories and conversations, <span i>mindfully.</span></h2>
 </section>
 
 <section id="form" pr="12 sm0">
@@ -40,7 +41,7 @@
 </section>
 
 <section my="9" id="callout">
-  <h1><span i>“A conversation requires a balance between talking and listening,</span> and somewhere along the way, <span i>we lost that balance.”</span></h1>
+  <h2><span i>“A conversation requires a balance between talking and listening,</span> and somewhere along the way, <span i>we lost that balance.”</span></h2>
   <h3><a href="https://www.ted.com/talks/celeste_headlee_10_ways_to_have_a_better_conversation/">Celeste Headlee</a></h3>
 </section>
 <!-- <PostList {posts}/> -->
